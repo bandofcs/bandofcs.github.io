@@ -5,7 +5,7 @@ theme: jekyll-theme-hydure
 
 author:
   name: bandofcs
-  url: https://bandofcs.github.io
+  url: https://github.com/bandofcs
 
 plugins:
   - jekyll-feed
