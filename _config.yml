@@ -4,8 +4,8 @@ remote_theme: zivong/jekyll-theme-hydure
 theme: jekyll-theme-hydure
 
 author:
-  name: Song-Zi Vong
-  url: https://twitter.com/zivong91
+  name: bandofcs
+  url: https://bandofcs.github.io
 
 plugins:
   - jekyll-feed
